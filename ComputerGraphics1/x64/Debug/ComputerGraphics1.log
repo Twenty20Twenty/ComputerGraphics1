@@ -1,7 +1,7 @@
 ﻿  main.cpp
-C:\Users\nikit\source\repos\ComputerGraphics1\ComputerGraphics1\main.cpp(66,23): warning C4244: инициализация: преобразование "_Rep" в "double", возможна потеря данных
-C:\Users\nikit\source\repos\ComputerGraphics1\ComputerGraphics1\main.cpp(66,23): warning C4244:         with
-C:\Users\nikit\source\repos\ComputerGraphics1\ComputerGraphics1\main.cpp(66,23): warning C4244:         [
-C:\Users\nikit\source\repos\ComputerGraphics1\ComputerGraphics1\main.cpp(66,23): warning C4244:             _Rep=__int64
-C:\Users\nikit\source\repos\ComputerGraphics1\ComputerGraphics1\main.cpp(66,23): warning C4244:         ]
-  ComputerGraphics1.vcxproj -> C:\Users\nikit\source\repos\ComputerGraphics1\x64\Debug\ComputerGraphics1.exe
+C:\Users\Оксана\Desktop\ComputerGraphics1\ComputerGraphics1\main.cpp(66,23): warning C4244: инициализация: преобразование "_Rep" в "double", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  ComputerGraphics1.vcxproj -> C:\Users\Оксана\Desktop\ComputerGraphics1\x64\Debug\ComputerGraphics1.exe
